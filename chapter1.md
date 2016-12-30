@@ -1,3 +1,4 @@
-# First Chapter
+# Java入门-基础语法
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本章主要介绍Java的基本语法以及
+
