@@ -10,4 +10,8 @@
     * [运算符与表达式](运算符与表达式.md)
     * [流程控制](流程控制.md)
 * [面向对象](面向对象.md)
+* [Java进阶](java进阶.md)
+    * [数组](数组.md)
+* [Java常用类、方法](java常用类、方法.md)
+    * [java.lang.Math](javalangmath.md)
 
