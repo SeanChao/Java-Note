@@ -20,3 +20,14 @@ public static void recursion(){
 	}
 ```
 最终i=10,循环运行11次，无报错。
+
+##实例：使用递归实现阶乘算法
+```java
+	public static long factorial (long n) {
+		if( n == 1){
+			return 1;
+		}else{
+			return n*factorial(n-1);
+		}
+	}
+```
