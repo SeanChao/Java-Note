@@ -11,9 +11,11 @@
   * [流程控制](流程控制.md)
   * [递归算法\(Recursion\)](di-gui-suan-6cd528-recursion.md)
 * [面向对象](面向对象.md)
+  * [内存分析](nei-cun-fen-xi.md)
   * [类和对象](类和对象.md)
 * [Java进阶](java进阶.md)
   * [数组](数组.md)
 * [Java常用类、方法](java常用类、方法.md)
   * [java.lang.Math](javalangmath.md)
+  * [java.util.Scanner](javautilscanner.md)
 
