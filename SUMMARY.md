@@ -16,6 +16,7 @@
   * [垃圾回收\(Garbage Collection\)](la-ji-hui-653628-garbage-collection.md)
   * [static关键字](staticguan-jian-zi.md)
   * [this关键字](thisguan-jian-zi.md)
+  * [继承\(extends\)](ji-627f28-extends.md)
 * [Java进阶](java进阶.md)
   * [数组](数组.md)
 * [Java常用类、方法](java常用类、方法.md)
