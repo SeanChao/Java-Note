@@ -24,4 +24,5 @@
 * [Java常用类、方法](java常用类、方法.md)
   * [java.lang.Math](javalangmath.md)
   * [java.util.Scanner](javautilscanner.md)
+* [Java深夜食堂](javashen-ye-shi-tang.md)
 
