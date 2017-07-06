@@ -2,7 +2,9 @@
 复写也称为覆盖、重写
 - 在具有父子关系的两个类中
 - 父类和子类各有一个函数，它们的返回值类型、函数名和参数列表完全相同
+
 示例：
+
 ```java
 package xyz.sean.testOverride;
 
@@ -26,6 +28,7 @@ class student extends Person {
 ```
 可以使用`super.xxx()`调用父类中的方法，以消除程序中的重复代码
 示例：
+
 ```java
 class student extends Person {
 	String address;
