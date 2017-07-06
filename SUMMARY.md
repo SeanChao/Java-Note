@@ -20,6 +20,7 @@
   * [方法的复写\(Override\)](fang-fa-de-fu-519928-override.md)
 * [Java进阶](java进阶.md)
   * [数组](数组.md)
+  * [hashCode\(\)与toString\(\)](hashcodeyu-tostring.md)
 * [Java常用类、方法](java常用类、方法.md)
   * [java.lang.Math](javalangmath.md)
   * [java.util.Scanner](javautilscanner.md)
